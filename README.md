@@ -7,7 +7,7 @@ Experienced in designing, developing and deploying web-based and android/ iOS ap
 
 :nerd_face: Contact
 --
-  * [LinkedIn](www.linkedin.com/in/rishabh-modi-b5521a8b)
+  * [LinkedIn](https://www.linkedin.com/in/rishabh-modi-b5521a8b)
   * [Twitter](https://twitter.com/rishabhmodi4)
   * Email - r.modi.15@gmail.com
   
