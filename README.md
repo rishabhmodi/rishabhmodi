@@ -40,7 +40,6 @@ Experienced in designing, developing and deploying web-based and android/ iOS ap
 
 :ok_person: Random
 --
-* Joey doesn't share food! I felt that :joy:
 * What we know is a drop, what we don't know is an ocean :ocean: - Dark
 * Usually developing in React JS and NodeJS
 * The best thing to do first thing in the morning is to go right back to sleep. I can sleep all day!
