@@ -1,6 +1,6 @@
 :star: About
 -- 
-Hello from Bengaluru, India! I am Software Engineer 3 with Khoros India. I have 4+ years of experience in React, React Native, NodeJS and Angular. 
+Hello from Bengaluru, India! I am Software Engineer 3 with Khoros India. I have 6+ years of experience in React, React Native, NodeJS and Angular. 
 
 Experienced in designing, developing and deploying web-based and android/ iOS applications for healthcare, logistics, transportation network and real estate investment industry and also has good exposure to Data BI Tools.
 
